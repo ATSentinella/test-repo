@@ -1,7 +1,7 @@
 #This is a test script
 
 #Declare some variables
-a <- 4
+a <- 5 #a is now 5
 
 b <- 7
 
